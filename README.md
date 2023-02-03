@@ -1,6 +1,6 @@
 Edit stuff in src directory.
 
-The `pjs.d.ts` file has only basic types. I'm not aware of any existing types.
+The `pjs.d.ts` file has only basic types. I'm not aware of any existing type library.
 
 Run `npm run build` to compile and bundle the project.
 
