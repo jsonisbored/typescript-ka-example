@@ -5,5 +5,5 @@
         "skipLibCheck": true,
         "lib": ["dom"],
     },
-    "include": ["src"]
+    "include": ["src", "pjs.d.ts"]
 }
